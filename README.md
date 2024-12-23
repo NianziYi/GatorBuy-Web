@@ -8,6 +8,3 @@ cd source
 npm install
 npm start
 ```
-
-## You can also reach to our app through the link
-https://csc642-gatorbuy.web.app/
